@@ -1,2 +1,7 @@
 # js-node-collection-link
-simple link to correct asset collectiion
+
+<a href="" target="_blank">
+  <img src="./.depot/banner.nodejscollection.folder.webp" alt=" node js scripts collection ">
+</a>
+
+<b>This is a simple link to correct asset collection</b> - [click here or on banner for go to correct collection now](https://github.com/js-node-collection)
